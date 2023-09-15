@@ -1,4 +1,4 @@
-![logo](https://c0.wallpaperflare.com/preview/383/983/589/web-design-developer-code-front-end-design.jpg)
+![logo](laptop-2620118_1280.jpg)
 <h1 align="center">Hi 👋, I'm Sneha Debnath</h1>
 <h3 align="center">FRONTEND/WEB DEVELOPMNT/WEB DESIGN.</h3>
 
