@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Debnath</h1>
 <h3 align="center">FRONTEND/WEB DEVELOPMNT/WEB DESIGN.</h3>
 
-<img align="right" alt="coding" width="400" src="<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47e8kkgmwz4a4ekle7t4ci0mk1swalm6toz922iht7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47e8kkgmwz4a4ekle7t4ci0mk1swalm6toz922iht7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rai21&label=Profile%20views&color=0e75b6&style=flat" alt="rai21" /> </p>
 
